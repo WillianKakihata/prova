@@ -23,7 +23,7 @@ a[target='_blank'] {
   }
 
 #favoritos:any-link {
-    forced-color-adjust: white;
+    color: white;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
   }
