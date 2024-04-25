@@ -18,12 +18,15 @@ header{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#favoritos:link {
+a[target='_blank'] {
+    color:white;
+  }
+
+#favoritos:any-link {
     forced-color-adjust: white;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
   }
-
 
 footer{
     display: flex;
