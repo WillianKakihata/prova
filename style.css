@@ -3,6 +3,7 @@ main{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    height: 125px;
 }
 
 header{
@@ -18,7 +19,7 @@ header{
 }
 
 #favoritos:link {
-    color: white;
+    forced-color-adjust: white;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
   }
